@@ -1,0 +1,4 @@
+.shahali-theme .owl-buttons div{color:transparent;display:inline-block;background:red;}
+.shahali-theme .owl-buttons div:hover{opacity:0.6}
+.shahali-theme .owl-buttons div.owl-prev{background: url("../image/arro_right.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);float: left;height: 24px;margin-top: -12px;position: absolute;	right: -35px;top: 50%;width: 20px;}
+.shahali-theme .owl-buttons div.owl-next{background: url("../image/arro_left.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);float: right;height: 24px;margin-top: -12px;position: absolute;left: -35px;top: 50%;width: 20px;}
